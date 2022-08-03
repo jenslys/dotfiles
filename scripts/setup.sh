@@ -40,6 +40,13 @@ brew=(
   bat
   ccls
   cmake
+  composer
+  ffmpeg
+  nginx
+  speedtest-cli
+  vercel-cli
+  x264
+  x265
   curl
   fd
   fortune
@@ -50,19 +57,14 @@ brew=(
   gradle
   htop
   jq
-  lazygit
   llvm
   lua
   luarocks
   neofetch
-  neovim
   node
-  openjdk
-  ranger
+  python
+  yt-dlp
   ripgrep
-  starship
-  tmux
-  the_silver_searcher
   umlet
   wget
   zsh-autosuggestions
